@@ -339,5 +339,10 @@ main {
 }
 
 .paragrafo9{
-    
-}
+    position: absolute;
+    top: 555%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+
+   }
