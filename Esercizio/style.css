@@ -234,9 +234,9 @@ main {
 
 }
 
-.bordo {
+.bordo2 {
     position: absolute;
-    top: 425%;
+    top: 430%;
     left: 50.3%;
     transform: translate(-50%, -50%);
     object-fit: cover;
@@ -274,3 +274,55 @@ main {
     font-size: 45px;
 
 }
+
+.foto3{
+    position: absolute;
+    top: 490%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+
+}
+
+.bordo3{
+    position: absolute;
+    top: 500%;
+    left: 50.3%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    border: 2px solid black;
+    width: 100%;
+    height: 75%;
+
+}
+
+.h2settimo{
+    color: #25a2c3;
+    position: absolute;
+    top: 510%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+
+}
+.paragrafo8{
+    position: absolute;
+    top: 525%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+
+}
+
+.blu {
+    position: absolute;
+    top: 560%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    width: 100%;
+    height: 40%;
+    background-color: #25a2c3;
+    z-index: -1;
+}
+
