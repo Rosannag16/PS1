@@ -275,7 +275,7 @@ main {
 
 }
 
-.foto3{
+.foto3 {
     position: absolute;
     top: 490%;
     left: 50%;
@@ -284,7 +284,7 @@ main {
 
 }
 
-.bordo3{
+.bordo3 {
     position: absolute;
     top: 500%;
     left: 50.3%;
@@ -296,7 +296,7 @@ main {
 
 }
 
-.h2settimo{
+.h2settimo {
     color: #25a2c3;
     position: absolute;
     top: 510%;
@@ -305,7 +305,8 @@ main {
     font-size: 80px;
 
 }
-.paragrafo8{
+
+.paragrafo8 {
     position: absolute;
     top: 525%;
     left: 53%;
@@ -326,3 +327,17 @@ main {
     z-index: -1;
 }
 
+.h2ottavo {
+
+   z-index: 1;
+    color: white;
+    position: absolute;
+    top: 545%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+}
+
+.paragrafo9{
+    
+}
